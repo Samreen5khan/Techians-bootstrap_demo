@@ -1,0 +1,23 @@
+
+@media only screen and (min-width: 1200px){
+    #white-box{
+        position:absolute; /*start-50 translate-middle*/
+        margin: -10rem 10rem 0rem 40rem;
+        z-index: 1;
+    }
+    #pink-box{
+        margin: -8rem 0rem;
+    }
+    #foot{
+        margin-top: 8rem;
+    }
+}
+
+.icons{
+   margin-left: 15px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
