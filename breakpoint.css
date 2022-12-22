@@ -13,6 +13,20 @@
     }
 }
 
+@media only screen and (max-width:1200px){
+    .element{
+        width: 20rem;
+        margin: 6px;
+    }
+}
+
+@media only screen and (min-width:592px){
+    .element{
+        margin-top: 10px;
+        width: 30rem;
+    }
+}
+
 .icons{
    margin-left: 15px;
 }
